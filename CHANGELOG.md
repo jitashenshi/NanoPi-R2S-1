@@ -1,6 +1,6 @@
 ## 20210303
 * 日常更新
-* 增加了mmwan3 helper by jitashenshi
+* 增加了 mmwan3 helper by jitashenshi
 
 ## 20210303
 * 日常更新
